@@ -1,4 +1,4 @@
-# RTA-Final-project- Real time stock price prediction
+# RTA-Final-project: Real time stock price prediction
 
 Stock price prediction has been a trending topic for a very long time now. Given the fact that stock prices can largely vary in short-term windows it essential to develop tools to follow this changes in real time. To have a closer look into how this could be done, this project aims to predict Amazon stock prices at an interval of every two minutes. 
 
