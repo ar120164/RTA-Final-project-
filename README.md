@@ -10,7 +10,7 @@ The project contains the following files (scripts):
 
 Below you will find a short description of their contents as well as the required resources to be able to run the project in your localhost:
 
-## 1. Data description and model.ipnyb
+## 1. Data description and model selection.ipnyb
 Gives an introduction of the Behavior of Stock-Market Prices for the chosen company (Amazon), and how the data is gathered and transformed. Also, gives a brief explanation of selected model for forecasting and its limitations. 
 
 ## 2. Python Web Server.ipnyb
