@@ -62,7 +62,7 @@ function getPythonData(){
                         },
                         title: {
                             display: true,
-                            text: 'Amazon Stock Prediction (2 minutes window)',
+                            text: 'Apple Stock Prediction (2 minutes window)',
                             fullSize: true
                         }
                     },
